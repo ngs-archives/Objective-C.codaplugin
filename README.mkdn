@@ -1,0 +1,8 @@
+Objective-C.codaplugin
+======================
+
+Generates NSCoding, NSCopying methods from header files
+
+    $ git clone git://github.com/ngs/Objective-C.codaplugin ~/Library/Application\ Support/Coda\ 2/Plug-ins/Objective-C.codaplugin
+
+
