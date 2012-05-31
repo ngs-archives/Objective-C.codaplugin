@@ -44,7 +44,7 @@
 			<key>fallbackInput</key>
 			<string>none</string>
 			<key>input</key>
-			<string>selection</string>
+			<string>document</string>
 			<key>name</key>
 			<string>Create NSCopy, NSCoding, @synthesize</string>
 			<key>output</key>
