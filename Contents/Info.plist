@@ -46,7 +46,7 @@
 			<key>input</key>
 			<string>document</string>
 			<key>name</key>
-			<string>Create NSCopy, NSCoding, @synthesize</string>
+			<string>Create NSCopy, NSCoding</string>
 			<key>output</key>
 			<string>replaceSelectedText</string>
 			<key>script</key>
